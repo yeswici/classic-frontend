@@ -32,6 +32,7 @@
   ],
   "tokens": [
     { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "fullName": "Stox", "decimals": 18 },
+    { "addr": "0x3a73f2803e3a6de4f84e09b7740926a10c65e1c6", "name": "LIBRA", "fullName": "LIBRA Coin", "decimals": 3 },
     { "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33", "name": "FKX", "fullName": "Knoxstertoken", "decimals": 18 },
     { "addr": "0x00c4b398500645eb5da00a1a379a88b11683ba01", "name": "EXC", "fullName": "Eximchain Token", "decimals": 18 },
     { "addr": "0x013a06558f07d9e6f9a00c95a33f3a0e0255176b", "name": "BALI", "fullName": "BALI COIN", "decimals": 18 },
